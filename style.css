@@ -1,4 +1,4 @@
-th:first-child {
+.dongdau th:first-child {
   background-color: red;
   color: white;
 }
