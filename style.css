@@ -1,4 +1,29 @@
-.dongdau th:first-child {
-  background-color: red;
+#dong1 {
   color: white;
+  background-color: red;
+  font-size: 35px;
+  text-align: right;
+  padding: 40px;
+}
+
+#dong2 {
+  background-color: pink;
+  font-size: 30px;
+  color: red;
+}
+table {
+  border: 2px solid red;
+  width: 100%;
+}
+
+.chudo {
+  color: red;
+}
+#dong3 {
+  vertical-align: top;
+  height: 150px;
+}
+img {
+  width: 300px;
+  height: 320px;
 }
